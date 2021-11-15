@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContactRoom</string>
+    <string name="title_activity_new_contact">NewContact</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="name_hint">Enter name</string>
+    <string name="occupation_hint">Occupation</string>
+    <string name="save_text">Save</string>
+    <string name="empty">Enter information</string>
+    <string name="description_text">Plus button Icon</string>
+    <string name="update_text">Update</string>
+    <string name="delete_text">Delete</string>
+</resources>
